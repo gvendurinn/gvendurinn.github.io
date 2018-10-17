@@ -8,7 +8,7 @@ function setup(){
     ellipse(150,150,50,50);
     fill(0);
     rect(200,200,10);
-    ellipse(100,200,50,50);
+    ellipse(150,150,25,25);
     textSize(20);
     text("Halló heimur",95,120);
 }
