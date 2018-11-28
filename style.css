@@ -4,6 +4,9 @@ Til þess að læra að gera eitthvað, prófaðu að leita á google af því s
 "how to change link color." */
 
 body {
-  background-color: #EDF2F4;
-  color: #2B2D42;
+  background-color: #999966;
+  color: #800000;
+  font-family: "monospace";
+  font-weight : 600;
+  font-stretch: ultra-expanded;
 }
